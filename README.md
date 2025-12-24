@@ -85,7 +85,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/SEhNCww9vGLAc/giphy.gif" width="28">
   <a href="https://www.youtube.com/@FelicityLois?sub_confirmation=1">
-    <img src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCl3aV8OUXRroWvvAiU66DOw?color=a020f0&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=8f00ff"/>
+    <img src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCZlzdhTTebXc-AOXHIb06cA?color=a020f0&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=8f00ff"/>
   </a> 
   <img src="https://media.giphy.com/media/SEhNCww9vGLAc/giphy.gif" width="28">
 </p>
